@@ -1,7 +1,10 @@
 # OpenVersus
 
-The future home of an open-source MultiVersus server emulator, because MultiVersus was too good to die so soon due to WB being WB.
+The ~~future~~ current home of an open-source MultiVersus server emulator, because MultiVersus was too good to die so soon due to WB being WB.
 
+## Important Note:
+This repository will only host pre-built binary releases intended for end-user use. If you're looking for the source code, it's available [in the OpenVersus repositories here](https://github.com/openversus).
+---
 
 17 U.S. Code § 1201 (f)
 
